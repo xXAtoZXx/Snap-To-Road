@@ -1,4 +1,4 @@
-# ![image](https://user-images.githubusercontent.com/82448514/179390131-debeeb32-7162-40a6-8ec4-584e3ccfce4c.png) Product
+# ![image](https://user-images.githubusercontent.com/82448514/179390272-65079183-9fe1-4514-9ea2-77846d93d3df.png) Product
 # Snap-To-Road
 
 Implementation of the Snap-to-Roads functionality to correctly snap gps co-ordinates to their corresponding haul roads
