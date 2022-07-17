@@ -12,3 +12,7 @@ A truck travelling on a Haul Road inside a Jobsite (a quarry, road construction 
 A solution to this problem is to snap each point to the nearest road segment. Need a post-processing engine to align the GPS data on a lane of the road. This needs to be near real-time.
 
 ## Steps to Use
+
+
+
+
